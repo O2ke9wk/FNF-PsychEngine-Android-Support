@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PIRACYSONICIDLE"
+		},
+		{
+			"offsets": [
+				34,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PIRACYSONICUP"
+		},
+		{
+			"offsets": [
+				37,
+				43
+			],
+			"loop": true,
+			"fps": 23,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PIRACYSONICRIGHT"
+		},
+		{
+			"offsets": [
+				-13,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PIRACYSONICLEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PIRACYSONICDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "IMOUTTAHERE",
+			"indices": [],
+			"name": "IMOUTTAHERE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				60
+			],
+			"anim": "THUMBUP",
+			"fps": 12,
+			"name": "PIRACYTHUMBUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/son_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-son",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		65,
+		142
+	],
+	"camera_position": [
+		10,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
